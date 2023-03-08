@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Scott K, but my friends call me Scooter!
 - 👀 I’m interested in ... learning all the code I can.
-- 🌱 I’m currently learning ...React Native
+- 🌱 I’m currently learning ...Python 3
 - 💞️ I’m looking to collaborate on ... some pair programing
 - 📫 How to reach me ... skohler16@gmail.com
 
