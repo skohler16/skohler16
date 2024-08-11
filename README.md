@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Scott K, but my friends call me Scooter!
+- 👋 Hi, I’m Scott, but my friends call me Scooter!
 - 👀 I’m interested in ... learning all the code I can.
 - 🌱 I’m currently learning ...Python 3
 - 💞️ I’m looking to collaborate on ... some pair programing
