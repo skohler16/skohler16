@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Scott, but my friends call me Scooter!
-- 👀 I’m interested in using Python for Web Development.
-- 🌱 I’m currently learning ...Python 3
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning ... HTML/CSS
 - 💞️ I’m looking to collaborate on ... some pair programing
 - 📫 How to reach me ... skohler16@gmail.com
 
