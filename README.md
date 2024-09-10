@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning ... HTML/CSS
 - 💞️ I’m looking to collaborate on ... some pair programing
-- 📫 How to reach me ... skohler16@gmail.com
+- 📫 How to reach me .. skohler16@gmail.com
 
 <!---
 skohler16/skohler16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
